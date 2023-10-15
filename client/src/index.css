@@ -3,4 +3,6 @@
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
   font-family: "Poppins", sans-serif;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
