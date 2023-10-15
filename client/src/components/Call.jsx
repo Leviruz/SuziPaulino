@@ -9,9 +9,10 @@ const Call = () => {
     <CallW>
       <div className="text-container">
         <p>
-          Advogado Previdenciária atuando em todo território nacional, Dra. Suziele Paulino tem conhecimento, experiência e equipe para garantir os
-          direitos fundamentais dos cidadãos em relação à assistência social e à
-          previdência social. Com agilidade e qualidade no serviço prestado.
+          Advogada Previdenciária atuando em todo território nacional, Dra.
+          Suziele Paulino tem conhecimento, experiência e equipe para garantir
+          os direitos fundamentais dos cidadãos em relação à assistência social
+          e à previdência social. Com agilidade e qualidade no serviço prestado.
         </p>
         <ul>
           <li>Aposentadoria (invalidez, idade, rural, etc);</li>

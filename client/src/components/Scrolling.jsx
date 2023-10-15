@@ -1,12 +1,12 @@
-import { ScrollingW } from "../wrappers/Scrolling";
-import header from "../assets/Banner.jpg";
+import { ImgBanner, ScrollingW } from "../wrappers/Scrolling";
+import header from "../assets/Banner2.png";
 
 const Scrolling = () => {
   return (
     <ScrollingW>
       <div className="parallax-container">
         <div className="parallax-image">
-          <img className="img_header" src={header} alt="h" />
+          <ImgBanner src={header} alt="Image 01" />
         </div>
       </div>
     </ScrollingW>

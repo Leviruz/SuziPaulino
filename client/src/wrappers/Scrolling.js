@@ -5,19 +5,19 @@ export const ScrollingW = styled.div`
     height: 35vw;
     overflow: hidden;
     position: relative;
-    overflow: hidden;
     background-position: 50% 50%;
+    background-color: #f0f8ff;
   }
   @media (max-width: 600px) {
     .parallax-container {
-      height: 100vw;
+      height: 70vw;
     }
   }
+`;
 
-  .img_header {
-    width: 100%;
-    position: absolute;
-    top: 0;
-    transition: top 0.5s ease;
-  }
+export const ImgBanner = styled.img`
+  width: 100%;
+  position: absolute;
+  top: 0;
+  transition: top 0.5s ease;
 `;

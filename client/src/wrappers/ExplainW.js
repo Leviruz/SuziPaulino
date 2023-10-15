@@ -10,4 +10,14 @@ export const ExplainW = styled.section`
   color: #2f4f4f;
   margin: auto;
   width: 70vw;
+  
+
+  @media screen and (max-width:600px) {
+    button{
+      margin-top: 40px ;
+    }
+    p{
+      margin-top: 10px;
+    }
+  }
 `;

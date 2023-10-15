@@ -57,6 +57,9 @@ export const CallW = styled.section`
     .img_hero {
       width: 50vw;
     }
+    .align {
+      margin: 20px 0;
+    }
     /* desktop */
   }
 `;
