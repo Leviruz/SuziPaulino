@@ -9,8 +9,9 @@ const Explain = () => {
         ASSISTÊNCIA SOCIAL E PREVIDÊNCIA SOCIAL.
       </h2>
       <p>
-        Eu, Suziele Paulino, Advogada situado em Independência/CE estou pronta
-        para ouvi-lo(a) e lhe ajudar na busca dos direitos que lhe são devidos
+        Eu, Suziele Paulino, Advogada, com atuação em todo o estado do Ceará
+        estou pronta para ouvi-lo(a) e lhe ajudar na busca dos direitos que lhe
+        são devidos
       </p>
       <ContactButton />
     </ExplainW>

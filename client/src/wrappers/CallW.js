@@ -21,11 +21,17 @@ export const CallW = styled.section`
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 50px;
   }
 
   /* div de imagem */
   .image-container {
     order: 2;
+    align-self: flex-end;
+    display: flex;
+
+
+    
   }
 
   /* texts */
@@ -68,6 +74,7 @@ export const CallW = styled.section`
     }
     .align {
       margin: 20px 0;
+      padding-bottom:0;
     }
     /* desktop */
   }
