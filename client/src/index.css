@@ -5,4 +5,5 @@
   font-family: "Poppins", sans-serif;
   word-wrap: break-word;
   overflow-wrap: break-word;
+  transition: 0.3s all linear;
 }

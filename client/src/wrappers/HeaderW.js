@@ -38,4 +38,12 @@ export const HeaderW = styled.header`
     margin-left: 10px;
   }
   
+  @media (max-width:600px)  {
+    p{
+      display: none;
+    }
+    .logo{
+      width: 3rem;
+    }
+  }
 `;
