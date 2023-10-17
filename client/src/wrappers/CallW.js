@@ -44,6 +44,15 @@ export const CallW = styled.section`
   h3 {
     padding-top: 15px;
   }
+  .title{
+    font-weight: 600;
+    padding: 30px 0;
+    font-size: 1.5em;
+  }
+  .title2{
+    font-weight: 600;
+    padding: 30px 0;
+  }
 
   /* img treatment */
   .img_hero {
