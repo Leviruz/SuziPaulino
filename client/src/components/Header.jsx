@@ -1,10 +1,12 @@
 import { HeaderW } from "../wrappers/HeaderW";
-
+import Logo from "../assets/logoSuzi.png"
 const Header = () => {
   return (
     <HeaderW>
-      <p className="gradient">Advogada Suziele Paulino -</p>
-      <p style={{marginLeft:"5px"}} >LOGO</p>
+      <div className="container">
+      <img src={Logo} alt="Logo Suzi adv" className="logo" />
+      <p className="gradient"> Adv. Suziele Paulino </p>
+      </div>
     </HeaderW>
   );
 };
