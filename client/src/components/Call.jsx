@@ -40,21 +40,21 @@ const Call = () => {
         </ul>
         <p className="title2">FAMÍLIA E SUCESSÕES</p>
         <ul>
-          <li>Inventário Judicial</li>
-          <li>Inventário Extrajudicial – em cartório</li>
-          <li>Alimentos, Revisional, Execução e Exoneração</li>
-          <li>Orientação e elaboração de Testamentos</li>
-          <li>Planejamento e Proteção de Bens Sucessórios.</li>
-          <li>Regulamentação de visitas</li>
-          <li>Guarda e Tutela de menores</li>
-          <li>Curatela</li>
-          <li>Interdição</li>
-          <li>Investigação de Paternidade</li>
-          <li>Reconhecimento e Dissolução de Sociedade de Fato</li>
-          <li>Divórcio Judicial</li>
-          <li>Divórcio extrajudicial</li>
-          <li>Alteração de Regime de Bens</li>
-          <li>Partilha de Bens</li>
+          <li>Inventário Judicial;</li>
+          <li>Inventário Extrajudicial – em cartório;</li>
+          <li>Alimentos, Revisional, Execução e Exoneração;</li>
+          <li>Orientação e elaboração de Testamentos;</li>
+          <li>Planejamento e Proteção de Bens Sucessórios;</li>
+          <li>Regulamentação de visitas;</li>
+          <li>Guarda e Tutela de menores;</li>
+          <li>Curatela;</li>
+          <li>Interdição;</li>
+          <li>Investigação de Paternidade;</li>
+          <li>Reconhecimento e Dissolução de Sociedade de Fato;</li>
+          <li>Divórcio Judicial;</li>
+          <li>Divórcio extrajudicial;</li>
+          <li>Alteração de Regime de Bens;</li>
+          <li>Partilha de Bens;</li>
         </ul>
         <p className="title2">PREVIDENCIÁRIA</p>
         <ul>
@@ -65,13 +65,13 @@ const Call = () => {
           <li>
             Propositura de ação judicial de concessão de:
             <ul>
-              <li>Aposentadoria por idade</li>
-              <li>Aposentadoria por invalidez</li>
-              <li>Aposentadoria por tempo de contribuição</li>
-              <li>Pensão por morte</li>
-              <li>Auxílio-doença</li>
-              <li>Auxílio-acidente</li>
-              <li>Revisão de benefício</li>
+              <li>Aposentadoria por idade;</li>
+              <li>Aposentadoria por invalidez;</li>
+              <li>Aposentadoria por tempo de contribuição;</li>
+              <li>Pensão por morte;</li>
+              <li>Auxílio-doença;</li>
+              <li>Auxílio-acidente;</li>
+              <li>Revisão de benefício;</li>
             </ul>
           </li>
           <li>
@@ -81,7 +81,7 @@ const Call = () => {
           <li>
             Realização de planejamento previdenciário, com elaboração de cálculo
             e simulações de valores dos benefícios nos planos de previdência
-            pública.
+            pública;
           </li>
         </ul>
         <div className="align">
