@@ -5,6 +5,7 @@ import Explain from "./components/Explain";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Scrolling from "./components/Scrolling";
+import WebDeveloper from "./components/WebDeveloper";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Call />
       <Explain />
       <Footer />
+      <WebDeveloper/>
     </>
   );
 }
