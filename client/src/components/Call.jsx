@@ -16,6 +16,34 @@ const Call = () => {
           assuntos complexos.
         </p>
         <p className="title">Áreas de atuação</p>
+        <p className="title2">PREVIDENCIÁRIA</p>
+        <ul>
+          <li>
+            Auxílio ao cliente no acompanhamento e propositura de pedidos
+            previdenciários e acidentários junto aos Institutos de Previdência;
+          </li>
+          <li>
+            Propositura de ação judicial de concessão de:
+            <ul>
+              <li>Aposentadoria por idade;</li>
+              <li>Aposentadoria por invalidez;</li>
+              <li>Aposentadoria por tempo de contribuição;</li>
+              <li>Pensão por morte;</li>
+              <li>Auxílio-doença;</li>
+              <li>Auxílio-acidente;</li>
+              <li>Revisão de benefício;</li>
+            </ul>
+          </li>
+          <li>
+            Orientação em relação aos valores de recolhimento das contribuições
+            previdenciárias no plano de previdência pública;
+          </li>
+          <li>
+            Realização de planejamento previdenciário, com elaboração de cálculo
+            e simulações de valores dos benefícios nos planos de previdência
+            pública;
+          </li>
+        </ul>
         <p className="title2">CÍVEL</p>
         <ul>
           <li>Indenizações por Danos Materiais, Morais e Estéticos;</li>
@@ -55,34 +83,6 @@ const Call = () => {
           <li>Divórcio extrajudicial;</li>
           <li>Alteração de Regime de Bens;</li>
           <li>Partilha de Bens;</li>
-        </ul>
-        <p className="title2">PREVIDENCIÁRIA</p>
-        <ul>
-          <li>
-            Auxílio ao cliente no acompanhamento e propositura de pedidos
-            previdenciários e acidentários junto aos Institutos de Previdência;
-          </li>
-          <li>
-            Propositura de ação judicial de concessão de:
-            <ul>
-              <li>Aposentadoria por idade;</li>
-              <li>Aposentadoria por invalidez;</li>
-              <li>Aposentadoria por tempo de contribuição;</li>
-              <li>Pensão por morte;</li>
-              <li>Auxílio-doença;</li>
-              <li>Auxílio-acidente;</li>
-              <li>Revisão de benefício;</li>
-            </ul>
-          </li>
-          <li>
-            Orientação em relação aos valores de recolhimento das contribuições
-            previdenciárias no plano de previdência pública;
-          </li>
-          <li>
-            Realização de planejamento previdenciário, com elaboração de cálculo
-            e simulações de valores dos benefícios nos planos de previdência
-            pública;
-          </li>
         </ul>
         <div className="align">
           <h3>Posso te ajudar?</h3>
